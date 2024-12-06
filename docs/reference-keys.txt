@@ -1,0 +1,17 @@
+fig:unnamed-chunk-1
+introduction
+overview-of-project
+format-of-original-data
+creating-a-relational-database
+structure-of-the-relational-database
+creating-the-empty-database
+populating-the-database
+sites-table
+individuals-table
+site-year-conditions-table
+molt-obeservations-table
+check-the-data
+visualizing-data-trends
+general-molt-timing
+conditions-across-sites-and-years
+molt-timing-and-environmental-conditions
