@@ -1,4 +1,4 @@
---- 
+---
 title: "Arctic Fox Seasonal Molting"
 author: "Alisse Metge"
 date: "`r Sys.Date()`"
@@ -23,7 +23,6 @@ The Arctic fox (*Vulpes lagopus*), like many species who live with seasonal snow
 knitr::include_graphics("Documents/ArcticFoxMolt.jpg")
 ```
 
-
 ## Overview of project
 
 I based my project on a study that looked at the timing and rate of seasonal molting of Arctic foxes (Laporte-Devylder et al, 2022). The dataset for this study consists of camera trap observations of Arctic foxes across 22 sites in Norway during their molting season, from 2011-2018. The dataset also includes average seasonal temperature each year (averaged across all sites) and site-specific measures of snow depth, snow continuity (number of days with snow on the ground) and a rodent density index for each site for each year sampled. (Not all sites were sampled each year.) The authors were interested in examining the timing of the molt in relation to environmental condtions.
@@ -39,3 +38,7 @@ For reference, here is a list of the columns contained in the two original csv f
 ```{r csv_chart, echo = FALSE, eval = TRUE, fig.cap="", fig.align='center', out.width='80%'}
 knitr::include_graphics("Documents/OriginalCSVs.jpg")
 ```
+
+**Data obtained from:**
+
+Laporte-Devylder, Lucie et al. (2022). Data from: A camera trap based assessment of climate-driven phenotypic plasticity of seasonal moulting in an endangered carnivore [Dataset]. Dryad. <https://doi.org/10.5061/dryad.xd2547dhm>
